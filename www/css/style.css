@@ -1,0 +1,42 @@
+/* Empty. Add your own CSS if you like */
+#displayKota,
+#displayKota1{
+	display: none;
+}
+.spinner svg {
+  width: 28px;
+  height: 28px;
+  stroke: #444;
+  fill: #444;
+}
+
+.dashboard {
+	padding: 10px;
+}
+.dashboard h2{
+	font-size: 22px;
+	text-align: center;
+	font-style: bold;
+}
+
+.dashboard .card .item img{
+	padding: 15px;
+}
+
+.dashboard p{
+	font-size: 16px;
+}
+
+.about {
+	padding: 10px;
+}
+
+.about h2{
+	font-size: 22px;
+	text-align: left;
+	font-style: bold;
+}
+
+.about p{
+	font-size: 16px;
+}
